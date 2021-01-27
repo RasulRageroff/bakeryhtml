@@ -1,0 +1,169 @@
+html{
+	font-family: arial;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-image: url(img/80941_b0.jpg);
+	background-repeat: no-repeat;
+	
+}
+
+.spisok{
+	background-color: #8B550C;
+	margin-top: 30px;
+	font-size: 22px;
+	padding-left: 422px;
+	padding-top: 40px;
+	
+
+}
+
+.glavnaya{
+	
+	color:#F5DBB8;
+	border: solid 11px;
+	border-color:#F5DBB8;
+}
+
+.produkciya{
+	color:#F5DBB8;
+	border: solid 11px;
+	border-color:#F5DBB8;
+	margin-left: 60px;
+
+    
+}
+
+.media{
+	color:#F5DBB8;
+	border: solid 11px;
+	border-color:#F5DBB8;
+	margin-left: 60px;
+
+}
+
+.okompanii{
+color:#F5DBB8;
+	border: solid 11px;
+	border-color:#F5DBB8;
+	margin-left: 60px;
+}
+
+.kontakti{
+	color:#F5DBB8;
+	border: solid 11px;
+	border-color:#F5DBB8;
+	margin-left: 60px;
+
+}
+
+form{
+	padding-left: 1200px;
+}
+
+.logotip1{
+	display: flex;
+	padding-left: 800px;
+}
+
+.ktk{
+	font-size: 20px;
+	color: #F5DBB8;
+	padding-top: 20px;
+	text-shadow: 2px 2px 2px;
+	-webkit-text-stroke: 1px black;
+
+}
+.ktkdan{
+	font-size: 25px;
+	background-color: #8B550C;
+	border:solid 2px;
+	width: 400px;
+	margin-left: 745px;
+    border-color: #F5DBB8;
+    color: #F5DBB8;
+}
+
+.kompashka{
+	margin-left: 80px;
+	margin-top: 30px;
+	background-color: #8B550C;
+	border: solid 2px;
+	width: 1700px;
+	margin: 745;
+	border-color: #F5DBB8;
+	color: #F5DBB8;
+	-webkit-text-stroke: 1px black;
+}
+
+.onassc{
+	display: flex;
+	justify-content: center;
+}
+
+.mediasc{
+	border: solid 2px;
+	background-color: #8B550C;
+    width: 600px;
+    margin-left: 700px;
+    margin-top: 20px;
+	border-color: #F5DBB8;
+	color: #F5DBB8;
+	-webkit-text-stroke: 1px black;
+
+
+
+}
+.produkciyaz{
+	color: #F5DBB8;
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	-webkit-text-stroke: 1px black;
+
+
+}
+
+.batoni1{
+	margin-left: 270px;
+}
+.bulki1{
+	margin-left: 40px;
+}
+.conditerskie1{
+	margin-left: 40px;
+}
+
+.eda1{
+	margin-left: 150px;
+}
+
+.chyreki1{
+	margin-left: 420px;
+}
+.board1{
+	margin-left: 40px;
+}
+.ozdoravitelnaya1{
+	margin-left: 40px;
+}
+
+.nomer{
+	border: solid #8B550C;
+	width: 333px;
+	background-color: #F5DBB8;
+	margin-top: 30px;
+	margin-left: 1250px;
+}
+
+.content1{
+	border: solid #F5DBB8;
+	background-color: #8B550C;
+	width: 1200px;
+	margin-left: 420px;
+	margin-top: 5px;
+	
+}
